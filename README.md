@@ -67,7 +67,7 @@ The model trained with selected predictors exhibits excellent prediction accurac
 
 ## Installation
 
-To install Bank appllication, follow these steps.
+To install the application, follow these steps.
 
 Clone the repository to your local machine using the following command:
 
